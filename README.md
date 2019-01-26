@@ -1,5 +1,6 @@
-"# js_sandbox" 
-Using visual studio code
+### js_sandbox
+##### Editor
+Visual Studio Code
 
 ##### Extensions:
 - Bracket Pair colorizer 2
